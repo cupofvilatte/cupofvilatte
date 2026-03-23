@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm **Vilate Knapp**, a Software Engineering student at Brigham Young University–Idaho with a 4.0 GPA and hands-on experience building mobile and web applications.  
-I love creating tools that help people learn, think, and work better — blending technical skill with a background in philosophy to solve problems with clarity and purpose.
+I love creating tools that help people learn, think, and work better: blending technical skill with a background in philosophy to solve problems with clarity and purpose.
 
 ## About Me
 
