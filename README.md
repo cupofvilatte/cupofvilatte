@@ -46,6 +46,6 @@ Web development • Mobile app development • UI/UX design • Data structures 
 ## Let's Connect!
 
 - **LinkedIn:** https://www.linkedin.com/in/vilate-knapp/  
-- **Email:** kna22003@byui.edu  
+- **Email:** viknapp22@gmail.com  
 
 Feel free to explore my repositories — and don’t hesitate to reach out!
